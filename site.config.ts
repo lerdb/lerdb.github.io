@@ -7,6 +7,8 @@ export default defineSiteConfig({
   author: {
     name: "lerdb",
     avatar: "https://avatars.githubusercontent.com/u/62736171",
+    email: 'lerd233@gmail.com',
+    link: 'https://github.com/lerdb',
   },
   /**
    * 站点图标
