@@ -17,8 +17,8 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     bg_image: {
       'enable': true,
-      'url': 'https://i.mji.rip/2024/05/01/ae0ac69c7438263f283a212069be29c5.png',
-      'dark':'https://i.mji.rip/2024/05/01/ae0ac69c7438263f283a212069be29c5.png',
+      'url': 'https://lerdb.github.io/109301396.png',
+      'dark':'https://lerdb.github.io/109301396.png',
       'opacity': 0.3,
     },
     banner: {
