@@ -1,7 +1,7 @@
 ---
 title: 搭建博客踩的坑
 date: 2024-05-02 17:00:00
-updated: 2024-05-02 17:00:00
+updated: 2024-05-05 17:00:00
 categories: 博客记录
 tags:
   - Blog

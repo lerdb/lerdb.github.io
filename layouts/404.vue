@@ -14,7 +14,7 @@ const { back } = useBack()
       404
     </div> -->
     <div style="max-width: 800px">
-        <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/404Notfound/NotFound.png" alt="made by GitHub@SAWARATSUKI Repositories:https://github.com/SAWARATSUKI/ServiceLogos">
+        <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/404Notfound/NotFound.png" alt="404 Not Found (made by GitHub@SAWARATSUKI Repositories:https://github.com/SAWARATSUKI/ServiceLogos)">
     </div>
 
     <!-- <RouterView /> -->

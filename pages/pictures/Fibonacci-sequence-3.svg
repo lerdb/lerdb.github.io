@@ -1,0 +1,9 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <!-- SVG图形内容 -->
+    <circle cx="200" cy="200" r="100" fill="#ffffff" />
+    <line x1="200" y1="200" x2="150" y2="113.4" stroke="#ff0000" stroke-width="3" />
+    <line x1="200" y1="200" x2="150" y2="286.6" stroke="#ff0000" stroke-width="3" />
+    <line x1="150" y1="286.6" x2="150" y2="113.4" stroke="#00ff00" stroke-width="3" />
+    <line x1="135" y1="130" x2="150" y2="113.4" stroke="#00ff00" stroke-width="3" />
+    <line x1="165" y1="130" x2="150" y2="113.4" stroke="#00ff00" stroke-width="3" />
+</svg>
