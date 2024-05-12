@@ -271,9 +271,9 @@ a_n = \begin{cases}
   \left( {k^2 + 4t} \geqq {0} \right)
   \\
   \frac{
-    { \left( \frac{1 + \sqrt{3} i }{2} \right) } ^ n -
-    { \left( \frac{1 - \sqrt{3} i }{2} \right) } ^ n
-  }{ \sqrt{3} i }
+    { \left( \frac{k + \sqrt{ - k^2 - 4t} i }{2} \right) } ^ n -
+    { \left( \frac{k - \sqrt{ - k^2 - 4t} i }{2} \right) } ^ n
+  }{ \sqrt{ k^2 + 4t} i }
   \left( k^2 + 4t < 0 \right)
 \end{cases}$$
 
