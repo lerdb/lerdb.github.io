@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>lerdb的博客</title>
+        <link>https://lerdb.github.io/</link>
+        <description></description>
+        <lastBuildDate>Fri, 24 May 2024 12:00:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>lerdb的博客</title>
+            <url>https://avatars.githubusercontent.com/u/62736171</url>
+            <link>https://lerdb.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © lerdb</copyright>
+        <atom:link href="https://lerdb.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[斐波那契数列的推广]]></title>
+            <link>https://lerdb.github.io/posts/Fibonacci-sequence</link>
+            <guid>https://lerdb.github.io/posts/Fibonacci-sequence</guid>
+            <pubDate>Fri, 24 May 2024 20:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>前言</h2>
+<p>我们已经知道[斐波那契数列](<a href="https://baike.baidu.com/item/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5">https://baike.baidu.com/item/斐波那契数�</a></p>
+]]></content:encoded>
+            <author>lerd233@gmail.com (lerdb)</author>
+        </item>
+        <item>
+            <title><![CDATA[搭建博客踩的坑]]></title>
+            <link>https://lerdb.github.io/posts/setup-blog</link>
+            <guid>https://lerdb.github.io/posts/setup-blog</guid>
+            <pubDate>Sun, 05 May 2024 17:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>这篇博客用来记录一下我在用 valaxy 和 GitHub Pages 搭建博客时踩过的坑</p>
+<h2>GitHub Actions 权限</h2>
+<p>在第一次提交后触发了 GitHub Actions, 但是</p>
+]]></content:encoded>
+            <author>lerd233@gmail.com (lerdb)</author>
+        </item>
+    </channel>
+</rss>

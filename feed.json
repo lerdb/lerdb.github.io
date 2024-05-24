@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lerdb的博客",
+    "home_page_url": "https://lerdb.github.io/",
+    "feed_url": "https://lerdb.github.io/feed.json",
+    "icon": "https://avatars.githubusercontent.com/u/62736171",
+    "author": {
+        "name": "lerdb",
+        "url": "https://github.com/lerdb"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>前言</h2>\n<p>我们已经知道[斐波那契数列](<a href=\"https://baike.baidu.com/item/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5\">https://baike.baidu.com/item/斐波那契数�</a></p>\n",
+            "url": "https://lerdb.github.io/posts/Fibonacci-sequence",
+            "title": "斐波那契数列的推广",
+            "date_modified": "2024-05-01T13:00:00.000Z",
+            "date_published": "2024-05-24T20:00:00.000Z",
+            "author": {
+                "name": "lerdb",
+                "url": "https://github.com/lerdb"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>这篇博客用来记录一下我在用 valaxy 和 GitHub Pages 搭建博客时踩过的坑</p>\n<h2>GitHub Actions 权限</h2>\n<p>在第一次提交后触发了 GitHub Actions, 但是</p>\n",
+            "url": "https://lerdb.github.io/posts/setup-blog",
+            "title": "搭建博客踩的坑",
+            "date_modified": "2024-05-02T17:00:00.000Z",
+            "date_published": "2024-05-05T17:00:00.000Z",
+            "author": {
+                "name": "lerdb",
+                "url": "https://github.com/lerdb"
+            }
+        }
+    ]
+}
