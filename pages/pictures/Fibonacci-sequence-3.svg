@@ -1,6 +1,6 @@
 <svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <!-- SVG图形内容 -->
-    <circle cx="200" cy="200" r="100" fill="#ffffff" />
+    <circle cx="200" cy="200" r="100" fill="#f5f5dc" />
     <line x1="200" y1="200" x2="150" y2="113.4" stroke="#ff0000" stroke-width="3" />
     <line x1="200" y1="200" x2="150" y2="286.6" stroke="#ff0000" stroke-width="3" />
     <line x1="150" y1="286.6" x2="150" y2="113.4" stroke="#00ff00" stroke-width="3" />
