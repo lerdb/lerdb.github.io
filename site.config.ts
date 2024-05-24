@@ -44,12 +44,12 @@ export default defineSiteConfig({
     enable: false,
   },
 
-  // sponsor: {
-  //   enable: false,
-  //   title: '我很可爱，请给我钱！',
-  //   methods: [
-  //   ],
-  // },
+  sponsor: {
+    enable: false,
+    title: '我很可爱，请给我钱！',
+    methods: [
+    ],
+  },
 
   /**
    * 开启阅读统计

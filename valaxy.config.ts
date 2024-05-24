@@ -43,11 +43,11 @@ export default defineValaxyConfig<UserThemeConfig>({
       icon: {
         enable: false
       },
-      // powered: false,
-      // beian: {
-      //   enable: true,
-      //   icp: '',
-      // },
+      powered: true,
+      beian: {
+        enable: false,
+        icp: '',
+      },
     },
   },
 

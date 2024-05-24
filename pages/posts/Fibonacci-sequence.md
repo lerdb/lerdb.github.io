@@ -262,7 +262,7 @@ $$
 
 由此, 我们就可以将我们推导的公式延伸到更广的形式, 即
 
-$$
+<!-- $$
 a_n = \begin{cases}
   \frac{
     { \left( \frac{k + \sqrt{ k^2 + 4t} }{2} \right) } ^ n -
@@ -275,6 +275,31 @@ a_n = \begin{cases}
     { \left( \frac{k - \sqrt{ - k^2 - 4t} i }{2} \right) } ^ n
   }{ \sqrt{ k^2 + 4t} i }
   \left( k^2 + 4t < 0 \right)
-\end{cases}$$
+\end{cases}
+$$ -->
 
-~~全文完~~ (未完待续...)
+$$
+a_n = \begin{cases}
+  \frac{1}{ \sqrt{ k^2 + 4t} }
+  \left(
+    { \left( \frac{k + \sqrt{ k^2 + 4t} }{2} \right) } ^ n -
+    { \left( \frac{k - \sqrt{ k^2 + 4t} }{2} \right) } ^ n
+  \right)
+  \left( {k^2 + 4t} \geqq {0} \right)
+  \\
+  \frac{1}{ \sqrt{ k^2 + 4t} i }
+  \left(
+    { \left( \frac{k + \sqrt{ - k^2 - 4t} i }{2} \right) } ^ n -
+    { \left( \frac{k - \sqrt{ - k^2 - 4t} i }{2} \right) } ^ n
+  \right)
+  \left( k^2 + 4t < 0 \right)
+\end{cases}
+$$
+
+## 结语
+
+花了好几天的时间推导出这个, 算是一个有趣的小发现吧, 顺便记录了下来, 数学还是很多奇妙的东西的嘛.
+
+其实已经有人推导出对于数列 $a_n = \sum_{ i=1 }^{ m }{ k_i a_{n-i}} (k_i \in R, n \geqq m)$ 的通项公式了, 本人能力有限就不推了(~~其实是根本不会~~).
+
+全文完
