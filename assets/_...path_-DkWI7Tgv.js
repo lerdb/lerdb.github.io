@@ -1,0 +1,1 @@
+import{d as a,u as s,a as n,b as r,e as p,o as c}from"./app-Cklp_fsg.js";import{b as o}from"./route-block-B_A1xBdJ.js";const u=a({__name:"[...path]",setup(f){const t=s(),e=n();return r(()=>{t.push("/"),e.path!=="/"&&e.path.endsWith("/")&&t.replace(e.path.slice(0,-1))}),(i,m)=>(c(),p("div"))}});typeof o=="function"&&o(u);export{u as default};

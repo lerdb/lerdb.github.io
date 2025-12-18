@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lerdb.github.io/</id>
+    <title>lerdb的博客</title>
+    <updated>2025-12-18T05:49:44.602Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>lerdb</name>
+        <email>lerd233@gmail.com</email>
+        <uri>https://github.com/lerdb</uri>
+    </author>
+    <link rel="alternate" href="https://lerdb.github.io/"/>
+    <link rel="self" href="https://lerdb.github.io/atom.xml"/>
+    <logo>https://avatars.githubusercontent.com/u/62736171</logo>
+    <icon>https://lerdb.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © lerdb</rights>
+    <entry>
+        <title type="html"><![CDATA[记录一次数学考试题目]]></title>
+        <id>https://lerdb.github.io/posts/math-test</id>
+        <link href="https://lerdb.github.io/posts/math-test"/>
+        <updated>2025-07-12T11:51:23.000Z</updated>
+        <content type="html"><![CDATA[<h2>题目</h2>
+<ol>
+<li>已知方程 $e^y + 6xy + x^2 - 1 = 0$ , 求 $y''(0)$, 其中 $y = f(x)$</li>
+<li>已知函数 $f(x, y) =<br>
+\begin{case</li>
+</ol>
+]]></content>
+        <author>
+            <name>lerdb</name>
+            <email>lerd233@gmail.com</email>
+            <uri>https://github.com/lerdb</uri>
+        </author>
+        <published>2025-07-12T12:36:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极限与双阶乘]]></title>
+        <id>https://lerdb.github.io/posts/Double-factorial</id>
+        <link href="https://lerdb.github.io/posts/Double-factorial"/>
+        <updated>2024-10-11T10:13:00.000Z</updated>
+        <content type="html"><![CDATA[<h2><a href="https://baike.baidu.com/item/%E5%8F%8C%E9%98%B6%E4%B9%98">双阶乘</a>的定义</h2>
+<p>$n!!=\displaystyle\prod^{[\f</p>
+]]></content>
+        <author>
+            <name>lerdb</name>
+            <email>lerd233@gmail.com</email>
+            <uri>https://github.com/lerdb</uri>
+        </author>
+        <published>2024-10-11T11:27:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斐波那契数列的推广]]></title>
+        <id>https://lerdb.github.io/posts/Fibonacci-sequence</id>
+        <link href="https://lerdb.github.io/posts/Fibonacci-sequence"/>
+        <updated>2024-05-01T13:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>我们已经知道[斐波那契数列](<a href="https://baike.baidu.com/item/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5">https://baike.baidu.com/item/斐波那契数�</a></p>
+]]></content>
+        <author>
+            <name>lerdb</name>
+            <email>lerd233@gmail.com</email>
+            <uri>https://github.com/lerdb</uri>
+        </author>
+        <published>2024-05-24T20:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搭建博客踩的坑]]></title>
+        <id>https://lerdb.github.io/posts/setup-blog</id>
+        <link href="https://lerdb.github.io/posts/setup-blog"/>
+        <updated>2024-05-02T17:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这篇博客用来记录一下我在用 valaxy 和 GitHub Pages 搭建博客时踩过的坑</p>
+<h2>GitHub Actions 权限</h2>
+<p>在第一次提交后触发了 GitHub Actions, 但是</p>
+]]></content>
+        <author>
+            <name>lerdb</name>
+            <email>lerd233@gmail.com</email>
+            <uri>https://github.com/lerdb</uri>
+        </author>
+        <published>2024-05-05T17:00:00.000Z</published>
+    </entry>
+</feed>
